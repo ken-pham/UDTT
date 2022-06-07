@@ -1,0 +1,3 @@
+trương hợp xấu nhất 2log(n)
+trường hợp tốt nhất 2log(n)
+độ phức tạp của thuật toán Olog(n)
